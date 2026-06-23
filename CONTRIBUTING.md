@@ -1,6 +1,6 @@
-# Contributing to Project Management
+# Contributing to TaskFlow
 
-Thank you for considering contributing to **Project Management**!
+Thank you for considering contributing to **TaskFlow**!
 We welcome contributions from everyone, whether it's fixing a bug, adding a new feature, or optimizing the codebase.
 
 ---
@@ -47,11 +47,11 @@ We welcome contributions from everyone, whether it's fixing a bug, adding a new 
 
 ## Ideas for Contribution
 
-Here are some areas where you can contribute to improve and expand the Project Management app:
+Here are some areas where you can contribute to improve and expand the TaskFLow app:
 
 ### Core UI Features
 
-- **Project Management**
+- **TaskFLow**
   - Enhance **project list views** and **project detail pages**
   - Add **project cards** with status, progress, and deadlines
   - Implement **project filtering and sorting** UI

@@ -1,12 +1,12 @@
 # 🚀 TaskFlow
 
-A modern project management dashboard built with React and Tailwind CSS to help teams organize projects, manage tasks, and monitor progress efficiently.
+A modern TaskFlow dashboard built with React and Tailwind CSS to help teams organize projects, manage tasks, and monitor progress efficiently.
 
 ---
 
 ## 📌 Overview
 
-TaskFlow is a responsive project management platform designed to streamline team collaboration and task tracking. It provides an intuitive dashboard for managing projects, assigning tasks, monitoring progress, and analyzing team performance.
+TaskFlow is a responsive TaskFLow platform designed to streamline team collaboration and task tracking. It provides an intuitive dashboard for managing projects, assigning tasks, monitoring progress, and analyzing team performance.
 
 ---
 
